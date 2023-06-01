@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack , fullstack development**
 
-- 💬 Ask me about **react , Node js , javascript , MERN**
+- 💬 Ask me about **react ,Next.js, Node js , javascript , MERN**
 
 - 📫 How to reach me **roshanchau001@gmail.com**
 
