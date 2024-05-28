@@ -1,9 +1,9 @@
 <h2 align="center">Hi there, I am Roshan Chaudhary 👋</h2>
-<p align="center">🌱 I’m currently learning fullstack web development.</p>
+<p align="center">🌱 Learning software development and how things work in the computer realm.</p>
 
 
 <!--
-**YuneshShrestha/YuneshShrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
